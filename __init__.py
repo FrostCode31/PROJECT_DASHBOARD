@@ -1,1 +1,1 @@
-# Package marker for graphics
+# Package marker for pages
